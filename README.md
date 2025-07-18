@@ -17,7 +17,7 @@
 
 ### *臨床に近いデータセット（非公式）*
 
-・ [１型糖尿病血糖値変動予測](https://www.kaggle.com/competitions/brist1d/data), [continuous glucose monitoring (CGM) data](https://github.com/IrinaStatsLab/Awesome-CGM?tab=readme-ov-file)
+・ [１型糖尿病血糖値変動予測](https://www.kaggle.com/competitions/brist1d/data) ,  [continuous glucose monitoring (CGM) data](https://github.com/IrinaStatsLab/Awesome-CGM?tab=readme-ov-file)
 
 
 ・ [手根骨骨年齢データセット](https://www.kaggle.com/datasets/kmader/rsna-bone-age/data)
