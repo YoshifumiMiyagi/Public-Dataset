@@ -1,4 +1,4 @@
-# 公共利用可能なデータセット
+# 小児臨床に関連する公共利用可能なデータセット（データ作成や解析の参考）
 
 ### *代表的なデータセット*
 
@@ -31,3 +31,15 @@
 ### *臨床に近いデータセット（公式）*
 
 ・ [造血幹細胞移植データ（survival_GANの合成データ）](https://www.kaggle.com/competitions/equity-post-HCT-survival-predictions/data)
+
+
+・ [ヒトの腎臓組織画像中の糸球体を同定](https://www.kaggle.com/competitions/hubmap-kidney-segmentation/data)
+
+
+### *論文のSupplemental data* 
+
+・　[溶連菌感染症の臨床データ](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0172871)
+
+
+・　[小児胃腸炎のデータ](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0192082)
+
